@@ -1,0 +1,40 @@
+﻿@model List<MMALeavePortal.ViewModels.ApplicationViewModel>
+
+@{
+    ViewBag.Title = "Home";
+}
+<div class="row">
+    <div class="col-sm-12">
+        <div class="jumbotron">
+            <h1>Learn, Shared, Build!</h1>
+            <h3>Each month, over 50 million developers come to Stack Overflow to learn, share their knowledge, and build their careers.</h3>
+            <p class="lead">Join the world's largest developer community.</p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm-12">
+        <table class="table">
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>
+                  Leave Reason: @item.LeaveText
+                    <br />
+                   Date & times :  @item.LeaveDateAndTime
+                    Department: @item.DepartmentID
+                    @item.UserID
+                </td>
+                
+
+            </tr>
+            }
+        </table>
+      
+    </div>
+</div>
+
+<script>
+    $("a[href='/home/index']").attr("id", "active");
+</script>

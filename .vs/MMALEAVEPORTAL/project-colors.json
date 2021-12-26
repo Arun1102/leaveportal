@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e8aec653-78ab-48e1-a835-6de7c1926a95": {
+      "ProjectGuid": "e8aec653-78ab-48e1-a835-6de7c1926a95",
+      "DisplayName": "MMALeavePPortal.DomainModels",
+      "ColorIndex": 0
+    },
+    "9ec0f414-5135-48e5-8a28-edc4fe34db22": {
+      "ProjectGuid": "9ec0f414-5135-48e5-8a28-edc4fe34db22",
+      "DisplayName": "MMALeavePortal.ViewModels",
+      "ColorIndex": 1
+    },
+    "3baeea32-a667-44d2-83e9-da655ede24db": {
+      "ProjectGuid": "3baeea32-a667-44d2-83e9-da655ede24db",
+      "DisplayName": "MMALeavePortal.ServiceLayers",
+      "ColorIndex": 2
+    },
+    "7214e84c-f566-4bd4-86a9-fe5545e84fad": {
+      "ProjectGuid": "7214e84c-f566-4bd4-86a9-fe5545e84fad",
+      "DisplayName": "MMALeavePortal.Repositories",
+      "ColorIndex": 3
+    },
+    "11c5e0e8-1dba-47c7-910d-c411873921f7": {
+      "ProjectGuid": "11c5e0e8-1dba-47c7-910d-c411873921f7",
+      "DisplayName": "MMALEAVEPORTAL",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

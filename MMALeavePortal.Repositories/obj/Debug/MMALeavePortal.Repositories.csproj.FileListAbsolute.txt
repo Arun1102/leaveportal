@@ -1,0 +1,15 @@
+C:\Users\aruna\source\repos\MMALEAVEPORTAL\MMALeavePortal.Repositories\bin\Debug\MMALeavePortal.Repositories.dll
+C:\Users\aruna\source\repos\MMALEAVEPORTAL\MMALeavePortal.Repositories\bin\Debug\MMALeavePortal.Repositories.pdb
+C:\Users\aruna\source\repos\MMALEAVEPORTAL\MMALeavePortal.Repositories\obj\Debug\MMALeavePortal.Repositories.csproj.AssemblyReference.cache
+C:\Users\aruna\source\repos\MMALEAVEPORTAL\MMALeavePortal.Repositories\obj\Debug\MMALeavePortal.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\aruna\source\repos\MMALEAVEPORTAL\MMALeavePortal.Repositories\obj\Debug\MMALeavePortal.Repositories.dll
+C:\Users\aruna\source\repos\MMALEAVEPORTAL\MMALeavePortal.Repositories\obj\Debug\MMALeavePortal.Repositories.pdb
+C:\Users\aruna\source\repos\MMALEAVEPORTAL\MMALeavePortal.Repositories\bin\Debug\MMALeavePortal.Repositories.dll.config
+C:\Users\aruna\source\repos\MMALEAVEPORTAL\MMALeavePortal.Repositories\bin\Debug\EntityFramework.dll
+C:\Users\aruna\source\repos\MMALEAVEPORTAL\MMALeavePortal.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aruna\source\repos\MMALEAVEPORTAL\MMALeavePortal.Repositories\bin\Debug\MMALeavePPortal.DomainModels.dll
+C:\Users\aruna\source\repos\MMALEAVEPORTAL\MMALeavePortal.Repositories\bin\Debug\MMALeavePPortal.DomainModels.pdb
+C:\Users\aruna\source\repos\MMALEAVEPORTAL\MMALeavePortal.Repositories\bin\Debug\MMALeavePPortal.DomainModels.dll.config
+C:\Users\aruna\source\repos\MMALEAVEPORTAL\MMALeavePortal.Repositories\bin\Debug\EntityFramework.xml
+C:\Users\aruna\source\repos\MMALEAVEPORTAL\MMALeavePortal.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aruna\source\repos\MMALEAVEPORTAL\MMALeavePortal.Repositories\obj\Debug\MMALeavePortal.Repositories.csproj.CopyComplete
